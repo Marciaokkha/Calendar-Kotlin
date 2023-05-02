@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="schedule_date">--Data do compromisso--</string>
+    <string name="save_schedule">SALVAR COMPROMISSO</string>
+    <string name="create_schedule">--Criar Compromisso--</string>
+    <string name="change_theme">MUDAR TEMA</string>
+</resources>

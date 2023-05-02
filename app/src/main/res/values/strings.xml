@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="schedule_date">--Schedule Date--</string>
+    <string name="save_schedule">SAVE SCHEDULE</string>
+    <string name="create_schedule">--Create Schedule--</string>
+    <string name="change_theme">CHANGE THEME</string>
+</resources>
